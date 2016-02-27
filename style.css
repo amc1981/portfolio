@@ -1,7 +1,12 @@
 .section {
   height: 100vh;
+  padding-top:50px;
 }
 
 img.avatar {
   border-radius: 50%;
+}
+.color1
+{
+	background-color: black;
 }
